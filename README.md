@@ -1,0 +1,1 @@
+Nesse projeto possui uma base de dados com informações sobre transações possui a criação de uma IA em python para prever se o cliente vai ser inadimplente em relação ao empréstimo de uma base de dados, com finalidade 
