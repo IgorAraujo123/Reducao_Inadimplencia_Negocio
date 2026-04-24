@@ -2,23 +2,23 @@
 Introdução:
 Nesse projeto o objetivo principal do négocio é fazer um modelo preditivo para redução de risco dee crédito, visto a quantidade de golpes hoje em dia
 
-Objetivos:
-Verificção da integridade e qualidade dos dados,
-Análise exploratória para identificação de padrões,
-Criação de um modelo preditivo em python,
-Treinamento do Modelo,
+## Objetivos:
+Verificção da integridade e qualidade dos dados<br>
+Análise exploratória para identificação de padrões<br>
+Criação de um modelo preditivo em python<br>
+Treinamento do Modelo<br>
 Fazer métricas do modelo preditivo
 
-Métricas Modelo
-Accuracy: 70%
-Recall: 72%
+## Métricas Modelo
+Accuracy: 70%<br>
+Recall: 72%<br>
 Precisão: 69%
 
-Banco de Dados
+## Banco de Dados
+Possui 1400 registros<br> 
+17 variáveis e 1 classe
 
-Possui 1400 registros e 18 variáveis
-
-Objetivo Final:
-Possui a finalidade de fazer diminuição de risco de crédito
-Ajudar na tomada de decisão dos stakeholders
+## Objetivo Final:
+Possui a finalidade de fazer diminuição de risco de crédito<br>
+Ajudar na tomada de decisão dos stakeholders<br>
 Reduzir perdas financeiras
