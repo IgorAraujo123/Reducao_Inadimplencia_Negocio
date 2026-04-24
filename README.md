@@ -16,6 +16,7 @@ Recall: 72%<br>
 Precisão: 69%
 
 ## Banco de Dados
+Variaveis: Duracao,HistoricoCredito,Proposito,Salario,Investimentos,Emprego,TempoParcelamento,EstadoCivil,FiadorTerceiros,ResidenciaDesde,Idade<br>	OutrosFinanciamentos,Habilitacao,EmprestimoExistente,Profissao,Dependentes,SocioEmpresa,Estrangeiro
 Possui 1400 registros<br> 
 17 variáveis e 1 classe
 
