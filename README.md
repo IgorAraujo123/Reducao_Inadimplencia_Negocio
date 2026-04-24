@@ -4,7 +4,7 @@ Nesse projeto o objetivo principal do négocio é fazer um modelo preditivo para
 Modelo Usado: Sequential
 
 ## Objetivos:
-Verificção da integridade e qualidade dos dados<br>
+Verificação da integridade e qualidade dos dados<br>
 Análise exploratória para identificação de padrões<br>
 Criação de um modelo preditivo em python<br>
 Treinamento do Modelo<br>
